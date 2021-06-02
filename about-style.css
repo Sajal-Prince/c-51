@@ -1,0 +1,22 @@
+*{
+    border: solid;
+}
+
+.full-intro{
+    background-color: cyan;
+    display: flex;
+    justify-content: center;
+}
+
+
+.mid-intro{
+    display: flex;
+    justify-content: center;
+}
+
+
+.intro{
+    background-color: darkkhaki;
+    display: flex;
+    justify-content: space-between;
+}

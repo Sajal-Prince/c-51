@@ -1,0 +1,49 @@
+h1{
+    color: #FEDCBA;
+}
+
+h2{
+    color: #ABCDEF;
+    font-style: italic;
+}
+
+*{
+
+}
+
+.header{
+    background-color: #808080;
+    display: flex;
+    justify-content:space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: cornflowerblue;
+}
+
+.game{
+    background-color: #AAAA96;
+    font-size: 30px;
+}
+
+.footer{
+    background-color: #AE6423;
+    display: flex;
+    justify-content: flex-end;
+}
+
+p{
+    color: rgb(241, 2, 2);
+}
+
+body{
+    background-color: #808080;
+}
+
+.mid-body{
+    background-color: #AAAAAA;
+    font: size 200px;
+}
